@@ -13,7 +13,21 @@ Changes
 2. The ``App`` was changed to send a ``Bad Request`` (400) for invalid parameters
    which was surprisingly easy to achieve. Line ``32`` was prefixed with::
 
-   ``BadRequest ~>``
+   BadRequest ~>
+
+Usage
+=====
+
+Start sbt_ ::
+
+    > ;update;run
+
+to play with the app in the browser @ http://localhost:8080. Or::
+
+    > test
+
+to run the tests.
+
 
 
 Attribution
@@ -25,5 +39,5 @@ Attribution
 
 .. _Unfiltered g8 Template: https://github.com/softprops/unfiltered.g8
 .. _anti-xml: https://github.com/djspiewak/anti-xml
-
+.. _sbt: http://code.google.com/p/simple-build-tool/wiki/Setup
 
