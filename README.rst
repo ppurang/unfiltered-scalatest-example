@@ -12,7 +12,7 @@ Changes
 2. The ``App`` was changed to send a ``Bad Request`` (400) for invalid parameters
    which was surprisingly easy to achieve. Line ``32`` was prefixed with ::
 
-   BadRequest ~>
+        BadRequest ~>
 
 Usage
 =====
