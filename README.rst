@@ -5,7 +5,6 @@ unfiltered-scalatest-example
 An example project demonstrating the usage of the Unfiltered scalatest support.
 This project was seeded using `Unfiltered g8 Template`_
 
-
 Changes
 =====
 
@@ -18,17 +17,15 @@ Changes
 Usage
 =====
 
-Start sbt_ ::
+Start sbt_ and run the commands ::
 
     > ;update;run
 
-to play with the app in the browser @ http://localhost:8080. Or::
+to play with the app in the browser @ http://localhost:8080. Or the command ::
 
     > test
 
 to run the tests.
-
-
 
 Attribution
 =====
