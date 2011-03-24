@@ -3,7 +3,7 @@ unfiltered-scalatest-example
 ==================================
 
 An example project demonstrating the usage of the Unfiltered scalatest support.
-This project was seeded using Unfiltered g8 Template_
+This project was seeded using `Unfiltered g8 Template`_
 
 
 Changes
@@ -20,7 +20,7 @@ Attribution
 =====
 
 1. anti-xml_ for this readme's template
-2. Unfiltered g8 Template_ for the excellent template for quick start
+2. `Unfiltered g8 Template`_ for the excellent template for quick start
 
 
 .. _Unfiltered g8 Template: https://github.com/softprops/unfiltered.g8
