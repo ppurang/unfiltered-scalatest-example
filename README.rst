@@ -10,7 +10,7 @@ Changes
 
 1. The example test was modified to make it a bit more interesting
 2. The ``App`` was changed to send a ``Bad Request`` (400) for invalid parameters
-   which was surprisingly easy to achieve. Line ``32`` was prefixed with::
+   which was surprisingly easy to achieve. Line ``32`` was prefixed with ::
 
    BadRequest ~>
 
